@@ -1,0 +1,15 @@
+name: SoarNow
+description:
+version: 1.0.0
+main: soarnow.SoarNow
+author: Neodusk
+website: http://neodusk.net
+api-version: 1.13
+depend: []
+softdepend: []
+commands:
+  soarnow:
+    description: In exchange for 10 diamonds, fly for 10 seconds.
+    usage: Use /soarnow while you have 10 diamonds and you are not currently flying.
+    permission: soarnow.soarnow
+    permission-message: You don't have permission to use soarnow.

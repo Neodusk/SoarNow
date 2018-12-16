@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SoarNow">
+    <output-path>$USER_HOME$/Desktop/mine/plugins</output-path>
+    <root id="archive" name="SoarNow.jar">
+      <element id="module-output" name="SoarNow" />
+    </root>
+  </artifact>
+</component>
